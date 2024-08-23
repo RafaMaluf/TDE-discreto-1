@@ -1,3 +1,4 @@
+#Rafael Maluf
 def arruma_linha(linha):
     return [e.strip() for e in linha.split(',')]
 
